@@ -9,13 +9,13 @@ Runs with Java and Javafx somewhere before the big changes made after Javafx 8, 
 Since it will take time to actually get it running again, here some screenshots I made: 
 
 ![](./Screenshots/DragonCurve.bmp)
-![](./Screenshots/Flower.bmp)
+![](./Screenshots/Splash1.bmp)
 ![](./Screenshots/GosperInsel.bmp)
-![](./Screenshots/Splash5.bmp)
-![](./Screenshots/Koch1.bmp)
 ![](./Screenshots/MosaikI.bmp)
+![](./Screenshots/Flower.bmp)
+![](./Screenshots/Koch1.bmp)
+![](./Screenshots/Splash5.bmp)
 ![](./Screenshots/ZeldaDreieck.bmp)
 ![](./Screenshots/Küste.bmp)
-![](./Screenshots/Splash1.bmp)
 ![](./Screenshots/ZahmerZwillingsdrachen.bmp)
 ![](./Screenshots/Teppich.bmp)
