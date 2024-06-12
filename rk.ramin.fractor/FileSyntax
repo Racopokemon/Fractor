@@ -1,0 +1,24 @@
+Magic number: 707106781
+
+byte version number: 0
+
+int image width
+int image height
+boolean niceEffects
+int sampling
+double atomSize
+double maxSize
+
+double pov x
+double pov y
+double pov scl
+double pov rot
+
+int knobCount
+
+[for every knob]
+double knob x
+double knob y
+double knob scl
+double knob rot
+boolean ignored

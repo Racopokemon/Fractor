@@ -1,0 +1,28 @@
+Which design for scaling and rotating in the preview field?
+What data should be shown?
+Which snapping should be used?
+
+Swap rotation direction in the preview-field?
+
+Bugs:
+
+Initially all 4 textFields contain the number 0.0, if you click at one of the SensorCanvasses, it changes to simply 0
+Is it right that I can rightclick and midclick knobs without getting any focus? 
+
+It is not really a bug but the only possibility to make the software also work on case-sensitive file systems: Only the lower case extension ".fractor" is accepted by this software
+
+Further Ideas:
+
+Snapping in the previewField also by zooming and rotating? Yes. ... ?
+
++- Buttons for the next step v/
+Detail orientated :o kinda impossible
+Point size
+
+Animations
+Transitions
+ZoomingInForever
+Flipped
+Reference picture
+Faar away: FractalLines
+Coloring
